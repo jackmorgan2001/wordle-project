@@ -1,0 +1,1 @@
+I got bored of doing the wordle and read articles about programs that found the best possible starting word. I stumbled upon Tyler Glaiel's Medium post about a program he wrote to calculate this word. I then decided to write a quick program using his strategy to solve the wordle for me everyday. It gets today's word "scour" in two guesses!
